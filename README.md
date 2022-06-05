@@ -1,5 +1,12 @@
 View the deployment <a href="https://e-commerce-tech-market.vercel.app">here</a> 
 
+To make a test payment use these inputs for the card info => 
+```
+Card Number: 4242 4242 4242 4242
+Expiration Date: 04 / 42
+CVV: 424
+```
+
 ## Getting Started
 
 First, run the development server:
