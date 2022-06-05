@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+View the deployment <a href="https://e-commerce-tech-market.vercel.app">here</a> 
 
 ## Getting Started
 
